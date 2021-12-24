@@ -17,10 +17,6 @@ Go to `config.h` for key bindings.
 
 ## Installation:
 
-My personal dwm build with its patches and personal tweaks.
-Go to `config.h` for key bindings and shortcuts.
-
-
 ```
 $ git clone https://github.com/IHatePineapples/dwm
 $ cd dwm && sudo make clean install
